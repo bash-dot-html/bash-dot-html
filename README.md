@@ -1,6 +1,6 @@
 # Hi there, I'm Basharat! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=bash-dot-html"></p>)
 
 ## About Me 🚀
 
