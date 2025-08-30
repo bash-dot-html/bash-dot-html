@@ -1,6 +1,6 @@
 # Hi there, I'm Basharat! 👋
 
-![Banner Image](<p align="center">Front-End Dev</p>)
+<p align="center">Front-End Dev</p>
 
 ## About Me 🚀
 
