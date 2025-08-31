@@ -4,12 +4,12 @@
 
 ## About Me 🚀
 
-I'm a passionate **Dev** with experience in **HTML, CSS, and JS**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create solutions.
+I'm a passionate **Dev** with experience in basic **HTML & CSS**. I am working on learning new skills, and collaborating with diverse teams to create reliable solutions.
 
-- 🌱 Currently learning: **React and Database (MySQL and MongoDB)**
+- 🌱 Currently learning: **JavaScript**
 - 🔭 Working on: **a React Project to build a fanpage for Lionel Messi**
-- 🌍 Languages: **Pashto, Urdu, English, and JavaScript**
-- 📫 How to reach me: **www.linkedin.com/in/basharat-dev**
+- 🌍 Languages: **English and JavaScript**
+- 📫 How to reach me: **(Have to put LinkedIn here)**
 - ⚡ Fun fact: **An IT guy wearing glasses can't be fun, right?**
 
 ## My Stack 🧠
@@ -42,7 +42,7 @@ I'm a passionate **Dev** with experience in **HTML, CSS, and JS**. I love tackli
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(www.linkedin.com/in/basharat-dev)
+- **[LinkedIn]**(your_LinkedIn_profile_link)
 - **[Twitter]**(your_twitter_profile_link)
 
 
